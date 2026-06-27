@@ -1,0 +1,21 @@
+Pivot Table 1 ? Sales by Region,,,,,Pivot Table 2 ? Profit by Product,,,,Pivot Table 3 ? Monthly Sales Trend,
+Row Labels,Count of Product,,,,Row Labels,Sum of Profit,,,Row Labels,Sum of Sales
+East,22,,,,Keyboard,6469,,,Jan,257020
+North,29,,,,Laptop,179816,,,Feb,305257
+South,29,,,,Monitor,46901,,,Mar,302636
+West,20,,,,Mouse,2486,,,Apr,269225
+Grand Total,100,,,,Printer,41006,,,May,317906
+,,,,,Grand Total,276678,,,Jun,343987
+,,,,,,,,,Grand Total,1796031
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Pivot Table 4 ? Top Products,,,,,,,,,,
+Row Labels,Sum of Sales,,,,,,,,,
+Keyboard,40638,,,,,,,,,
+Laptop,1211976,,,,,,,,,
+Monitor,285145,,,,,,,,,
+Mouse,16302,,,,,,,,,
+Printer,241970,,,,,,,,,
+Grand Total,1796031,,,,,,,,,
